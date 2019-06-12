@@ -1,0 +1,1921 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__longjmp)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (strchr)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (strcmp)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__strdup)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (strlen)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (strnlen)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (memchr)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (memcmp)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (memmove)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (memset)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__stpcpy)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os) (__GI_memcpy)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os) (_wordcopy_fwd_aligned)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (rawmemchr)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os) (__strcmp_sse2_unaligned)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_ssse3)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_sse2_unaligned)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_avx512_no_vzeroupper)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_avx_unaligned)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os) (__memcpy_avx_unaligned)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os) (__memmove_avx512_no_vzeroupper)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os) (__stpcpy_ssse3)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os) (__stpcpy_sse2_unaligned)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os) (__strchr_sse2_no_bsf)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os) (__memset_avx2)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os) (__memset_avx512_no_vzeroupper)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os) (__x86_data_cache_size)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__closedir)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__readdir)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__rewinddir)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os) (__getdents)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__fdopendir)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__uname)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__GI__exit)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__getpid)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__environ)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__GI___xstat64)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__open)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__libc_read)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__libc_write)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__access)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__close)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__mmap)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__munmap)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__mprotect)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__lseek)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os (__profil)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os) (__libc_multiple_threads)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os) (__setitimer)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os) (__GI_exit)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os) (__exit_funcs)
+/home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+                              /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os) (__GI___call_tls_dtors)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+LOAD /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x1ec05
+ *(.text .stub)
+ .text          0x0000000000000000    0x17c40 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000000050                _dl_initial_error_catch_tsd
+                0x00000000000067d0                _dl_dst_count
+                0x0000000000006880                _dl_dst_substitute
+                0x0000000000007160                _dl_init_paths
+                0x00000000000075b0                _dl_map_object
+                0x0000000000008000                _dl_rtld_di_serinfo
+                0x0000000000008f20                _dl_lookup_symbol_x
+                0x000000000000a090                _dl_setup_hash
+                0x000000000000a140                _dl_add_to_namespace_list
+                0x000000000000a1d0                _dl_new_object
+                0x000000000000a550                _dl_try_allocate_static_tls
+                0x000000000000a630                _dl_allocate_static_tls
+                0x000000000000a660                _dl_nothread_init_static_tls
+                0x000000000000a6b0                _dl_protect_relro
+                0x000000000000a720                _dl_reloc_bad_type
+                0x000000000000a7f0                _dl_relocate_object
+                0x000000000000bf70                _dl_map_object_deps
+                0x000000000000d330                _dl_important_hwcaps
+                0x000000000000da60                _dl_fixup
+                0x000000000000dc00                _dl_profile_fixup
+                0x000000000000e1b0                _dl_call_pltexit
+                0x000000000000e2a0                _dl_signal_error
+                0x000000000000e450                _dl_signal_cerror
+                0x000000000000e4e0                _dl_catch_error
+                0x000000000000e5b0                _dl_receive_error
+                0x000000000000e740                _dl_init
+                0x000000000000e880                _dl_sort_fini
+                0x000000000000eb60                _dl_fini
+                0x000000000000ef20                _dl_debug_state
+                0x000000000000ef20                __GI__dl_debug_state
+                0x000000000000ef30                _dl_debug_initialize
+                0x000000000000f5c0                _dl_sysdep_read_whole_file
+                0x000000000000f650                _dl_debug_printf
+                0x000000000000f700                _dl_debug_printf_c
+                0x000000000000f7b0                _dl_dprintf
+                0x000000000000f850                _dl_name_match_p
+                0x000000000000f8c0                _dl_higher_prime_number
+                0x000000000000fd40                _dl_check_map_versions
+                0x00000000000101a0                _dl_check_all_versions
+                0x0000000000010210                _dl_start_profile
+                0x0000000000010970                __GI__dl_mcount
+                0x0000000000010970                _dl_mcount
+                0x0000000000010bb0                _dl_resolve_conflicts
+                0x0000000000010fd0                _dl_next_tls_modid
+                0x00000000000110d0                _dl_count_modids
+                0x0000000000011140                _dl_determine_tlsoffset
+                0x0000000000011300                __GI__dl_tls_setup
+                0x0000000000011300                _dl_tls_setup
+                0x00000000000113b0                _dl_get_tls_static_info
+                0x00000000000113d0                _dl_allocate_tls_storage
+                0x0000000000011470                __GI__dl_allocate_tls_init
+                0x0000000000011470                _dl_allocate_tls_init
+                0x00000000000116e0                __GI__dl_allocate_tls
+                0x00000000000116e0                _dl_allocate_tls
+                0x0000000000011720                _dl_deallocate_tls
+                0x0000000000011720                __GI__dl_deallocate_tls
+                0x00000000000117c0                _dl_update_slotinfo
+                0x0000000000011a70                __GI___tls_get_addr
+                0x0000000000011a70                __tls_get_addr
+                0x0000000000011ab0                _dl_tls_get_addr_soft
+                0x0000000000011b30                _dl_add_to_slotinfo
+                0x0000000000011c20                _dl_get_origin
+                0x0000000000011db0                _dl_scope_free
+                0x0000000000011e80                _dl_make_stack_executable
+                0x0000000000011e80                __GI__dl_make_stack_executable
+                0x0000000000011f10                _dl_check_caller
+                0x0000000000012300                __GI__dl_find_dso_for_object
+                0x0000000000012300                _dl_find_dso_for_object
+                0x00000000000123e0                _dl_open
+                0x00000000000127d0                _dl_show_scope
+                0x0000000000013270                _dl_addr_inside_object
+                0x0000000000013420                _dl_close_worker
+                0x0000000000014470                _dl_close
+                0x0000000000014500                _dl_runtime_resolve_avx512
+                0x0000000000014670                _dl_runtime_profile_avx512
+                0x0000000000014af0                _dl_runtime_resolve_avx
+                0x0000000000014c50                _dl_runtime_profile_avx
+                0x00000000000150d0                _dl_runtime_resolve_sse
+                0x0000000000015200                _dl_runtime_profile_sse
+                0x0000000000015400                _dl_cache_libcmp
+                0x00000000000154d0                _dl_load_cache_lookup
+                0x0000000000015aa0                _dl_unload_cache
+                0x0000000000015ae0                _dl_make_tlsdesc_dynamic
+                0x0000000000015de0                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015fa0                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015fe0                _dl_unmap
+                0x0000000000016060                _dl_tlsdesc_return
+                0x0000000000016070                _dl_tlsdesc_undefweak
+                0x0000000000016080                _dl_tlsdesc_dynamic
+                0x0000000000016120                _dl_tlsdesc_resolve_rela
+                0x0000000000016190                _dl_tlsdesc_resolve_hold
+                0x0000000000016210                __get_cpu_features
+                0x0000000000016220                _dl_sysdep_start
+                0x00000000000169b0                _dl_sysdep_start_cleanup
+                0x00000000000169c0                _dl_show_auxv
+                0x0000000000016b40                _dl_discover_osversion
+                0x0000000000016d20                _dl_next_ld_env_entry
+                0x0000000000016d70                unsetenv
+                0x0000000000016de0                __libc_memalign
+                0x0000000000016f00                malloc
+                0x0000000000016f10                calloc
+                0x0000000000016f50                free
+                0x0000000000016f90                __sigjmp_save
+                0x0000000000016fa0                __strerror_r
+                0x0000000000017080                __GI___libc_fatal
+                0x0000000000017080                __libc_fatal
+                0x00000000000170b0                __GI___chk_fail
+                0x00000000000170b0                __chk_fail
+                0x00000000000170c0                __GI___assert_fail
+                0x00000000000170c0                __assert_fail
+                0x0000000000017110                realloc
+                0x00000000000171a0                __GI___assert_perror_fail
+                0x00000000000171a0                __assert_perror_fail
+                0x0000000000017210                __strtoul_internal
+                0x00000000000173b0                _itoa
+                0x0000000000017400                __strsep
+                0x0000000000017400                strsep
+                0x0000000000017400                __strsep_g
+                0x0000000000017490                __brk
+                0x0000000000017490                brk
+                0x00000000000174e0                sbrk
+                0x00000000000174e0                __sbrk
+                0x0000000000017570                __getcwd
+                0x0000000000017570                getcwd
+                0x00000000000179d0                openat64
+                0x0000000000017a40                __alloc_dir
+                0x0000000000017b40                __opendir
+                0x0000000000017b40                opendir
+                0x0000000000017bf0                __fxstatat
+                0x0000000000017bf0                __fxstatat64
+                0x0000000000017bf0                __GI___fxstatat64
+ .text          0x0000000000017c40       0xf2 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+                0x0000000000017d00                __libc_check_standard_fds
+ .text          0x0000000000017d32        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ *fill*         0x0000000000017d32        0xe 
+ .text          0x0000000000017d40       0x57 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+                0x0000000000017d40                __sigsetjmp
+                0x0000000000017d40                __GI___sigsetjmp
+ *fill*         0x0000000000017d97        0x9 
+ .text          0x0000000000017da0       0x50 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+                0x0000000000017da0                __longjmp
+ .text          0x0000000000017df0      0x24a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+                0x0000000000017df0                index
+                0x0000000000017df0                strchr
+                0x0000000000017e20                __strchr_sse2
+                0x0000000000017e20                __GI_strchr
+ *fill*         0x000000000001803a        0x6 
+ .text          0x0000000000018040     0x1479 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+                0x0000000000018040                strcmp
+                0x0000000000018080                __strcmp_sse2
+                0x0000000000018080                __GI_strcmp
+ *fill*         0x00000000000194b9        0x7 
+ .text          0x00000000000194c0       0x41 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+                0x00000000000194c0                __GI___strdup
+                0x00000000000194c0                __strdup
+                0x00000000000194c0                strdup
+ *fill*         0x0000000000019501        0xf 
+ .text          0x0000000000019510      0x19c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+                0x0000000000019510                strlen
+                0x0000000000019510                __GI_strlen
+ *fill*         0x00000000000196ac        0x4 
+ .text          0x00000000000196b0      0x218 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+                0x00000000000196b0                __strnlen
+                0x00000000000196b0                strnlen
+                0x00000000000196b0                __GI___strnlen
+                0x00000000000196b0                __GI_strnlen
+ *fill*         0x00000000000198c8        0x8 
+ .text          0x00000000000198d0      0x344 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+                0x00000000000198d0                __GI_memchr
+                0x00000000000198d0                memchr
+                0x00000000000198d0                __memchr
+ *fill*         0x0000000000019c14        0xc 
+ .text          0x0000000000019c20      0x440 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+                0x0000000000019c20                bcmp
+                0x0000000000019c20                memcmp
+                0x0000000000019c60                __GI_memcmp
+                0x0000000000019c60                __memcmp_sse2
+ .text          0x000000000001a060      0x1d7 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+                0x000000000001a060                __GI_memmove
+                0x000000000001a060                __memmove_sse2
+                0x000000000001a1e0                memmove
+                0x000000000001a1e0                memcpy@GLIBC_2.2.5
+                0x000000000001a1e0                __libc_memmove
+ *fill*         0x000000000001a237        0x9 
+ .text          0x000000000001a240      0x173 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+                0x000000000001a240                memset
+                0x000000000001a290                __bzero
+                0x000000000001a290                bzero
+                0x000000000001a2a0                __memset_tail
+                0x000000000001a2c0                __memset_chk_sse2
+                0x000000000001a2d0                __GI_memset
+                0x000000000001a2d0                __memset_sse2
+ *fill*         0x000000000001a3b3        0xd 
+ .text          0x000000000001a3c0      0x11c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+                0x000000000001a3c0                stpcpy
+                0x000000000001a3c0                __stpcpy
+                0x000000000001a400                __GI_stpcpy
+                0x000000000001a400                __GI___stpcpy
+                0x000000000001a400                __stpcpy_sse2
+ *fill*         0x000000000001a4dc        0x4 
+ .text          0x000000000001a4e0      0x4e5 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+                0x000000000001a4e0                __new_memcpy
+                0x000000000001a4e0                memcpy@@GLIBC_2.14
+                0x000000000001a550                __memcpy_chk_sse2
+                0x000000000001a560                __memcpy_sse2
+                0x000000000001a560                __GI_memcpy
+ *fill*         0x000000000001a9c5        0xb 
+ .text          0x000000000001a9d0      0x556 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+                0x000000000001a9d0                _wordcopy_fwd_aligned
+                0x000000000001ab10                _wordcopy_fwd_dest_aligned
+                0x000000000001ac40                _wordcopy_bwd_aligned
+                0x000000000001add0                _wordcopy_bwd_dest_aligned
+ *fill*         0x000000000001af26        0xa 
+ .text          0x000000000001af30      0x204 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+                0x000000000001af30                __GI___rawmemchr
+                0x000000000001af30                __rawmemchr
+                0x000000000001af30                rawmemchr
+ .text          0x000000000001b134        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ *fill*         0x000000000001b134        0xc 
+ .text          0x000000000001b140      0x2a3 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+                0x000000000001b140                __strcmp_sse2_unaligned
+ .text          0x000000000001b3e3        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .text          0x000000000001b3e3        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ *fill*         0x000000000001b3e3        0xd 
+ .text          0x000000000001b3f0      0x217 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+                0x000000000001b3f0                __memcpy_sse2_unaligned
+ *fill*         0x000000000001b607        0x9 
+ .text          0x000000000001b610      0x748 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+                0x000000000001b610                __memcpy_chk_avx512_no_vzeroupper
+                0x000000000001b620                __memcpy_avx512_no_vzeroupper
+ .text          0x000000000001bd58        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .text          0x000000000001bd58        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .text          0x000000000001bd58        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .text          0x000000000001bd58        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ *fill*         0x000000000001bd58        0x8 
+ .text          0x000000000001bd60      0x748 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                0x000000000001bd60                __memmove_chk_avx512_no_vzeroupper
+                0x000000000001bd70                __memmove_avx512_no_vzeroupper
+ .text          0x000000000001c4a8        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ *fill*         0x000000000001c4a8        0x8 
+ .text          0x000000000001c4b0      0x6b0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                0x000000000001c4b0                __stpcpy_sse2_unaligned
+ .text          0x000000000001cb60        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .text          0x000000000001cb60        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .text          0x000000000001cb60        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .text          0x000000000001cb60      0x280 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                0x000000000001cb60                __memset_chk_avx512_no_vzeroupper
+                0x000000000001cb70                __memset_avx512_no_vzeroupper
+ .text          0x000000000001cde0      0x560 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+                0x000000000001d310                __cache_sysconf
+ .text          0x000000000001d340       0x54 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+                0x000000000001d340                __closedir
+                0x000000000001d340                closedir
+ *fill*         0x000000000001d394        0xc 
+ .text          0x000000000001d3a0      0x100 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+                0x000000000001d3a0                readdir
+                0x000000000001d3a0                __readdir64
+                0x000000000001d3a0                __readdir
+                0x000000000001d3a0                readdir64
+ .text          0x000000000001d4a0       0x93 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+                0x000000000001d4a0                rewinddir
+                0x000000000001d4a0                __rewinddir
+                0x000000000001d4a0                __GI___rewinddir
+ *fill*         0x000000000001d533        0xd 
+ .text          0x000000000001d540       0x8d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+                0x000000000001d540                __getdents
+                0x000000000001d540                __getdents64
+ *fill*         0x000000000001d5cd        0x3 
+ .text          0x000000000001d5d0       0xa2 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+                0x000000000001d5d0                fdopendir
+                0x000000000001d5d0                __fdopendir
+ *fill*         0x000000000001d672        0xe 
+ .text          0x000000000001d680       0x21 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+                0x000000000001d680                uname
+                0x000000000001d680                __GI_uname
+                0x000000000001d680                __uname
+                0x000000000001d680                __GI___uname
+ *fill*         0x000000000001d6a1        0xf 
+ .text          0x000000000001d6b0       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+                0x000000000001d6b0                _Exit
+                0x000000000001d6b0                __GI__exit
+                0x000000000001d6b0                _exit
+ *fill*         0x000000000001d708        0x8 
+ .text          0x000000000001d710       0x3c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+                0x000000000001d710                __getpid
+                0x000000000001d710                getpid
+                0x000000000001d710                __GI_getpid
+                0x000000000001d710                __GI___getpid
+ .text          0x000000000001d74c        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ *fill*         0x000000000001d74c        0x4 
+ .text          0x000000000001d750       0x4c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+                0x000000000001d750                _xstat
+                0x000000000001d750                __xstat64
+                0x000000000001d750                __GI___xstat64
+                0x000000000001d750                __GI___xstat
+                0x000000000001d750                __xstat
+ *fill*         0x000000000001d79c        0x4 
+ .text          0x000000000001d7a0       0x4c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+                0x000000000001d7a0                __GI___fxstat
+                0x000000000001d7a0                __GI___fxstat64
+                0x000000000001d7a0                __fxstat64
+                0x000000000001d7a0                _fxstat
+                0x000000000001d7a0                __fxstat
+ *fill*         0x000000000001d7ec        0x4 
+ .text          0x000000000001d7f0       0x4c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+                0x000000000001d7f0                __GI___lxstat
+                0x000000000001d7f0                _lxstat
+                0x000000000001d7f0                __lxstat
+                0x000000000001d7f0                __lxstat64
+                0x000000000001d7f0                __GI___lxstat64
+ *fill*         0x000000000001d83c        0x4 
+ .text          0x000000000001d840       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+                0x000000000001d840                __GI___open64
+                0x000000000001d840                __open
+                0x000000000001d840                __GI_open
+                0x000000000001d840                __GI___open
+                0x000000000001d840                __GI_open64
+                0x000000000001d840                __libc_open
+                0x000000000001d840                open64
+                0x000000000001d840                __GI___libc_open
+                0x000000000001d840                open
+                0x000000000001d840                __open64
+                0x000000000001d849                __open_nocancel
+ *fill*         0x000000000001d89a        0x6 
+ .text          0x000000000001d8a0       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+                0x000000000001d8a0                __read
+                0x000000000001d8a0                __GI_read
+                0x000000000001d8a0                __libc_read
+                0x000000000001d8a0                __GI___read
+                0x000000000001d8a0                read
+                0x000000000001d8a0                __GI___libc_read
+                0x000000000001d8a9                __read_nocancel
+ *fill*         0x000000000001d8fa        0x6 
+ .text          0x000000000001d900       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+                0x000000000001d900                __write
+                0x000000000001d900                __GI_write
+                0x000000000001d900                write
+                0x000000000001d900                __GI___libc_write
+                0x000000000001d900                __GI___write
+                0x000000000001d900                __libc_write
+                0x000000000001d909                __write_nocancel
+ *fill*         0x000000000001d95a        0x6 
+ .text          0x000000000001d960       0x21 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+                0x000000000001d960                __GI_access
+                0x000000000001d960                __GI___access
+                0x000000000001d960                access
+                0x000000000001d960                __access
+ *fill*         0x000000000001d981        0xf 
+ .text          0x000000000001d990      0x112 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+                0x000000000001da00                __fcntl_nocancel
+                0x000000000001da30                __libc_fcntl
+                0x000000000001da30                __GI___libc_fcntl
+                0x000000000001da30                __GI___fcntl
+                0x000000000001da30                __fcntl
+                0x000000000001da30                fcntl
+ *fill*         0x000000000001daa2        0xe 
+ .text          0x000000000001dab0       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+                0x000000000001dab0                __GI_close
+                0x000000000001dab0                __GI___libc_close
+                0x000000000001dab0                __libc_close
+                0x000000000001dab0                __close
+                0x000000000001dab0                __GI___close
+                0x000000000001dab0                close
+                0x000000000001dab9                __close_nocancel
+ *fill*         0x000000000001db0a        0x6 
+ .text          0x000000000001db10       0xb5 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+                0x000000000001db10                __mmap
+                0x000000000001db10                mmap
+                0x000000000001db10                __mmap64
+                0x000000000001db10                mmap64
+ *fill*         0x000000000001dbc5        0xb 
+ .text          0x000000000001dbd0       0x21 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+                0x000000000001dbd0                munmap
+                0x000000000001dbd0                __GI___munmap
+                0x000000000001dbd0                __GI_munmap
+                0x000000000001dbd0                __munmap
+ *fill*         0x000000000001dbf1        0xf 
+ .text          0x000000000001dc00       0x21 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+                0x000000000001dc00                __mprotect
+                0x000000000001dc00                __GI___mprotect
+                0x000000000001dc00                __GI_mprotect
+                0x000000000001dc00                mprotect
+ *fill*         0x000000000001dc21        0xf 
+ .text          0x000000000001dc30       0x21 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+                0x000000000001dc30                __GI___lseek
+                0x000000000001dc30                __GI_lseek64
+                0x000000000001dc30                __llseek
+                0x000000000001dc30                __GI_llseek
+                0x000000000001dc30                __lseek64
+                0x000000000001dc30                lseek
+                0x000000000001dc30                __libc_lseek64
+                0x000000000001dc30                __GI___libc_lseek64
+                0x000000000001dc30                __GI___libc_lseek
+                0x000000000001dc30                llseek
+                0x000000000001dc30                __lseek
+                0x000000000001dc30                __GI___lseek64
+                0x000000000001dc30                __libc_lseek
+                0x000000000001dc30                __GI___llseek
+                0x000000000001dc30                __GI_lseek
+                0x000000000001dc30                lseek64
+ *fill*         0x000000000001dc51        0xf 
+ .text          0x000000000001dc60      0x1c1 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+                0x000000000001dcb0                __profil
+                0x000000000001dcb0                profil
+ *fill*         0x000000000001de21        0xf 
+ .text          0x000000000001de30        0xb /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+                0x000000000001de30                __GI___profile_frequency
+                0x000000000001de30                __profile_frequency
+ *fill*         0x000000000001de3b        0x5 
+ .text          0x000000000001de40       0x4c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001de40                __lll_lock_wait_private
+                0x000000000001de70                __lll_unlock_wake_private
+ *fill*         0x000000000001de8c        0x4 
+ .text          0x000000000001de90       0xb9 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+                0x000000000001de90                __libc_enable_asynccancel
+                0x000000000001def0                __libc_disable_asynccancel
+ .text          0x000000000001df49        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001df49        0x7 
+ .text          0x000000000001df50      0x1e4 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+                0x000000000001df70                __libc_sigaction
+                0x000000000001df70                __GI___libc_sigaction
+                0x000000000001e110                sigaction
+                0x000000000001e110                __GI___sigaction
+                0x000000000001e110                __sigaction
+ *fill*         0x000000000001e134        0xc 
+ .text          0x000000000001e140       0x21 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+                0x000000000001e140                setitimer
+                0x000000000001e140                __setitimer
+                0x000000000001e140                __GI_setitimer
+                0x000000000001e140                __GI___setitimer
+ *fill*         0x000000000001e161        0xf 
+ .text          0x000000000001e170      0x5c3 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+                0x000000000001e170                pthread_equal
+                0x000000000001e1a0                pthread_attr_destroy
+                0x000000000001e1d0                pthread_attr_init@@GLIBC_2.2.5
+                0x000000000001e1d0                __pthread_attr_init_2_1
+                0x000000000001e200                pthread_attr_getdetachstate
+                0x000000000001e230                pthread_attr_setdetachstate
+                0x000000000001e260                pthread_attr_getinheritsched
+                0x000000000001e290                pthread_attr_setinheritsched
+                0x000000000001e2c0                pthread_attr_getschedparam
+                0x000000000001e2f0                pthread_attr_setschedparam
+                0x000000000001e320                pthread_attr_getschedpolicy
+                0x000000000001e350                pthread_attr_setschedpolicy
+                0x000000000001e380                pthread_attr_getscope
+                0x000000000001e3b0                pthread_attr_setscope
+                0x000000000001e3e0                pthread_condattr_destroy
+                0x000000000001e410                pthread_condattr_init
+                0x000000000001e440                pthread_cond_broadcast@@GLIBC_2.3.2
+                0x000000000001e440                __pthread_cond_broadcast
+                0x000000000001e470                pthread_cond_destroy@@GLIBC_2.3.2
+                0x000000000001e470                __pthread_cond_destroy
+                0x000000000001e4a0                pthread_cond_init@@GLIBC_2.3.2
+                0x000000000001e4a0                __pthread_cond_init
+                0x000000000001e4d0                pthread_cond_signal@@GLIBC_2.3.2
+                0x000000000001e4d0                __pthread_cond_signal
+                0x000000000001e500                pthread_cond_wait@@GLIBC_2.3.2
+                0x000000000001e500                __pthread_cond_wait
+                0x000000000001e530                pthread_cond_timedwait@@GLIBC_2.3.2
+                0x000000000001e530                __pthread_cond_timedwait
+                0x000000000001e560                pthread_exit
+                0x000000000001e560                __pthread_exit
+                0x000000000001e590                pthread_getschedparam
+                0x000000000001e5c0                pthread_setschedparam
+                0x000000000001e5f0                pthread_mutex_destroy
+                0x000000000001e620                pthread_mutex_init
+                0x000000000001e650                pthread_mutex_lock
+                0x000000000001e680                pthread_mutex_unlock
+                0x000000000001e6b0                pthread_self
+                0x000000000001e6e0                __pthread_setcancelstate
+                0x000000000001e6e0                pthread_setcancelstate
+                0x000000000001e710                pthread_setcanceltype
+ *fill*         0x000000000001e733        0xd 
+ .text          0x000000000001e740      0x155 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+                0x000000000001e740                __run_exit_handlers
+                0x000000000001e880                __GI_exit
+                0x000000000001e880                exit
+ *fill*         0x000000000001e895        0xb 
+ .text          0x000000000001e8a0      0x22f /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+                0x000000000001e8a0                __new_exitfn
+                0x000000000001ea30                __internal_atexit
+                0x000000000001ea80                __cxa_atexit
+                0x000000000001ea80                __GI___cxa_atexit
+ *fill*         0x000000000001eacf        0x1 
+ .text          0x000000000001ead0      0x135 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+                0x000000000001ead0                __cxa_thread_atexit_impl
+                0x000000000001eba0                __GI___call_tls_dtors
+                0x000000000001eba0                __call_tls_dtors
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x1fc
+ .text.unlikely
+                0x0000000000000000      0x1fc /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+
+.text.sse4.2    0x0000000000000000      0xda9
+ .text.sse4.2   0x0000000000000000      0xda9 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+                0x0000000000000000                __strcmp_sse42
+
+.text.ssse3     0x0000000000000000     0xaad3
+ .text.ssse3    0x0000000000000000     0x1259 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000000000                __GI___strcmp_ssse3
+                0x0000000000000000                __strcmp_ssse3
+ *fill*         0x0000000000001259        0x7 
+ .text.ssse3    0x0000000000001260     0x29c6 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000001260                __memcpy_chk_ssse3
+                0x0000000000001270                __memcpy_ssse3
+ *fill*         0x0000000000003c26        0xa 
+ .text.ssse3    0x0000000000003c30     0x2b77 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+                0x0000000000003c30                __memmove_chk_ssse3
+                0x0000000000003c40                __memmove_ssse3
+ *fill*         0x00000000000067a7        0x9 
+ .text.ssse3    0x00000000000067b0     0x2b16 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+                0x00000000000067b0                __memmove_chk_ssse3_back
+                0x00000000000067c0                __memmove_ssse3_back
+ *fill*         0x00000000000092c6        0xa 
+ .text.ssse3    0x00000000000092d0     0x1803 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+                0x00000000000092d0                __stpcpy_ssse3
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.avx       0x0000000000000000      0x886
+ .text.avx      0x0000000000000000      0x4eb /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+                0x0000000000000000                __memmove_chk_avx_unaligned
+                0x0000000000000010                __memmove_avx_unaligned
+ *fill*         0x00000000000004eb        0x5 
+ .text.avx      0x00000000000004f0      0x396 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+                0x00000000000004f0                __memcpy_chk_avx_unaligned
+                0x0000000000000500                __memcpy_avx_unaligned
+
+.text.atom      0x0000000000000000     0x1a83
+ .text.atom     0x0000000000000000      0x315 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+                0x0000000000000000                __strchr_sse2_no_bsf
+ *fill*         0x0000000000000315        0xb 
+ .text.atom     0x0000000000000320     0x1763 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000000320                __memcmp_ssse3
+
+.text.avx2      0x0000000000000000      0x1a4
+ .text.avx2     0x0000000000000000      0x1a4 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+                0x0000000000000000                __memset_chk_avx2
+                0x0000000000000010                __memset_avx2
+
+.text.startup   0x0000000000000000      0x2ad
+ .text.startup  0x0000000000000000      0x2ad /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x160
+ .text.compat   0x0000000000000000      0x160 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+                0x0000000000000000                pthread_cond_broadcast@GLIBC_2.2.5
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000030                __pthread_cond_destroy_2_0
+                0x0000000000000030                pthread_cond_destroy@GLIBC_2.2.5
+                0x0000000000000060                __pthread_cond_init_2_0
+                0x0000000000000060                pthread_cond_init@GLIBC_2.2.5
+                0x0000000000000090                __pthread_cond_signal_2_0
+                0x0000000000000090                pthread_cond_signal@GLIBC_2.2.5
+                0x00000000000000c0                pthread_cond_wait@GLIBC_2.2.5
+                0x00000000000000c0                __pthread_cond_wait_2_0
+                0x00000000000000f0                pthread_cond_timedwait@GLIBC_2.2.5
+                0x00000000000000f0                __pthread_cond_timedwait_2_0
+                0x0000000000000120                __pthread_unwind
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x10a0
+ *(.rodata)
+ .rodata        0x0000000000000000      0xc70 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+                0x0000000000000c60                __GI__itoa_lower_digits
+                0x0000000000000c60                _itoa_lower_digits
+ .rodata        0x0000000000000c70       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .rodata        0x0000000000000cb0       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .rodata        0x0000000000000cf0       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000d30       0x80 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ *fill*         0x0000000000000db0       0x10 
+ .rodata        0x0000000000000dc0      0x2e0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000      0xf64
+ .rodata.str1.1
+                0x0000000000000000      0xef1 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000000ef1       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000000f05       0x48 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x0000000000000f4d       0x17 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.8  0x0000000000000000     0x22fd
+ .rodata.str1.8
+                0x0000000000000000     0x22c9 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ *fill*         0x00000000000022c9        0x7 
+ .rodata.str1.8
+                0x00000000000022d0       0x1d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ *fill*         0x00000000000022ed        0x3 
+ .rodata.str1.8
+                0x00000000000022f0        0xd /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x391
+ .rodata.str1.16
+                0x0000000000000000      0x373 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ *fill*         0x0000000000000373        0xd 
+ .rodata.str1.16
+                0x0000000000000380       0x11 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x70
+ .rodata.cst16  0x0000000000000000       0x70 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+
+.rodata.sse4.2  0x0000000000000000       0x40
+ .rodata.sse4.2
+                0x0000000000000000       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+
+.rodata.ssse3   0x0000000000000000      0x880
+ .rodata.ssse3  0x0000000000000000      0x1c0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x500 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x36cc
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2070 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+                                       0x20bc (size before relaxing)
+ *fill*         0x0000000000002070        0x0 
+ .eh_frame      0x0000000000002070       0x68 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .eh_frame      0x00000000000020d8       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002108       0x48 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x0000000000002150       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .eh_frame      0x0000000000002190       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .eh_frame      0x00000000000021e8       0x50 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .eh_frame      0x0000000000002238       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .eh_frame      0x0000000000002268       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .eh_frame      0x0000000000002298       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .eh_frame      0x00000000000022c8       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .eh_frame      0x0000000000002308       0x80 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .eh_frame      0x0000000000002388       0x80 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .eh_frame      0x0000000000002408       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .eh_frame      0x0000000000002448       0x80 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .eh_frame      0x00000000000024c8       0x98 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .eh_frame      0x0000000000002560       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x0000000000002590       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x00000000000025c0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .eh_frame      0x00000000000025f0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x0000000000002620       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .eh_frame      0x0000000000002660       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002690       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .eh_frame      0x00000000000026d0       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .eh_frame      0x0000000000002710       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .eh_frame      0x0000000000002750       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .eh_frame      0x0000000000002790       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .eh_frame      0x00000000000027d0       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .eh_frame      0x0000000000002810       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .eh_frame      0x0000000000002840       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002870       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .eh_frame      0x00000000000028a0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x00000000000028d0       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .eh_frame      0x0000000000002910       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .eh_frame      0x0000000000002950      0x188 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .eh_frame      0x0000000000002ad8       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000002b18       0x68 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .eh_frame      0x0000000000002b80       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x0000000000002bc0       0x68 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000002c28       0x50 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x0000000000002c78       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .eh_frame      0x0000000000002ca8       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .eh_frame      0x0000000000002cd8       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000002d08       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000002d38       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .eh_frame      0x0000000000002d68       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .eh_frame      0x0000000000002d98       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .eh_frame      0x0000000000002dc8       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .eh_frame      0x0000000000002df8       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .eh_frame      0x0000000000002e28       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .eh_frame      0x0000000000002e58       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .eh_frame      0x0000000000002eb8       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .eh_frame      0x0000000000002ee8       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .eh_frame      0x0000000000002f48       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .eh_frame      0x0000000000002f78       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000002fa8       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .eh_frame      0x0000000000002fd8       0x80 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .eh_frame      0x0000000000003058       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x0000000000003088       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .eh_frame      0x00000000000030e8       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .eh_frame      0x0000000000003128       0xe0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000003208       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .eh_frame      0x0000000000003238      0x310 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .eh_frame      0x0000000000003548       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .eh_frame      0x00000000000035a0       0xb0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .eh_frame      0x0000000000003650       0x7c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+                                         0x80 (size before relaxing)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000       0x18
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+ *fill*         0x0000000000000004        0x4 
+ .tbss          0x0000000000000008       0x10 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfc0
+ *(.data)
+ .data          0x0000000000000000      0xf80 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .data          0x0000000000000f80        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f80       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+                0x0000000000000f80                __x86_raw_shared_cache_size
+                0x0000000000000f88                __x86_raw_shared_cache_size_half
+                0x0000000000000f90                __x86_shared_cache_size
+                0x0000000000000f98                __x86_shared_cache_size_half
+                0x0000000000000fa0                __x86_raw_data_cache_size
+                0x0000000000000fa8                __x86_raw_data_cache_size_half
+                0x0000000000000fb0                __x86_data_cache_size
+                0x0000000000000fb8                __x86_data_cache_size_half
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .data          0x0000000000000fc0        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.data.rel.ro    0x0000000000000000      0x2ac
+ .data.rel.ro   0x0000000000000000      0x2ac /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x0000000000000290                __stack_prot
+                0x0000000000000298                _dl_random
+                0x00000000000002a0                __libc_stack_end
+                0x00000000000002a0                __GI___libc_stack_end
+                0x00000000000002a8                __GI___libc_enable_secure
+                0x00000000000002a8                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x8
+ .data.rel.local
+                0x0000000000000000        0x8 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x634
+ *(.bss)
+ .bss           0x0000000000000000      0x120 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+                0x00000000000000f8                __libc_multiple_libcs
+                0x0000000000000118                __curbrk
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000120        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000120        0x8 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+                0x0000000000000120                _environ
+                0x0000000000000120                __environ
+                0x0000000000000120                environ
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000128        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ *fill*         0x0000000000000128       0x18 
+ .bss           0x0000000000000140       0xe0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .bss           0x0000000000000220        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .bss           0x0000000000000220      0x414 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .bss           0x0000000000000634        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+ *(COMMON)
+ COMMON         0x0000000000000634        0x0 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ COMMON         0x0000000000000634        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000634        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x0000000000000634        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ COMMON         0x0000000000000634        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xa6a
+ *(.comment)
+ .comment       0x0000000000000000      0x5e1 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .comment       0x00000000000005e1       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .comment       0x000000000000060c       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .comment       0x0000000000000637       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .comment       0x0000000000000662       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .comment       0x000000000000068d       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .comment       0x00000000000006b8       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .comment       0x00000000000006e3       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .comment       0x000000000000070e       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .comment       0x0000000000000739       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .comment       0x0000000000000764       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .comment       0x000000000000078f       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .comment       0x00000000000007ba       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .comment       0x00000000000007e5       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .comment       0x0000000000000810       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .comment       0x000000000000083b       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .comment       0x0000000000000866       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000891       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .comment       0x00000000000008bc       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .comment       0x00000000000008e7       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .comment       0x0000000000000912       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .comment       0x000000000000093d       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000968       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x0000000000000993       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .comment       0x00000000000009be       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .comment       0x00000000000009e9       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .comment       0x0000000000000a14       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .comment       0x0000000000000a3f       0x2b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1440
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x720 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000720       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x0000000000000750       0x20 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_aranges
+                0x0000000000000770       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_aranges
+                0x00000000000007a0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_aranges
+                0x00000000000007d0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x0000000000000800       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x0000000000000840       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_aranges
+                0x0000000000000870       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_aranges
+                0x00000000000008a0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000000000008d0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x0000000000000900       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x0000000000000930       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_aranges
+                0x0000000000000960       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_aranges
+                0x0000000000000990       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x00000000000009c0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_aranges
+                0x00000000000009f0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_aranges
+                0x0000000000000a20       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x0000000000000a50       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000a80       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000ab0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_aranges
+                0x0000000000000ae0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000b10       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000b40       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000b70       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_aranges
+                0x0000000000000ba0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_aranges
+                0x0000000000000bd0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_aranges
+                0x0000000000000c00       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000c30       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000c60       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000c90       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000cc0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_aranges
+                0x0000000000000cf0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000d20       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_aranges
+                0x0000000000000d50       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000d80       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x0000000000000f40       0x20 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_aranges
+                0x0000000000000f60       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_aranges
+                0x0000000000000f90       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_aranges
+                0x0000000000000fc0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_aranges
+                0x0000000000000ff0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_aranges
+                0x0000000000001020       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_aranges
+                0x0000000000001050       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_aranges
+                0x0000000000001080       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_aranges
+                0x00000000000010b0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_aranges
+                0x00000000000010e0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_aranges
+                0x0000000000001110       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_aranges
+                0x0000000000001140       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_aranges
+                0x0000000000001170       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_aranges
+                0x0000000000001200       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x0000000000001230       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001260       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_aranges
+                0x0000000000001290       0x20 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_aranges
+                0x00000000000012b0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x00000000000012e0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_aranges
+                0x0000000000001310       0xa0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_aranges
+                0x00000000000013b0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_aranges
+                0x00000000000013e0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_aranges
+                0x0000000000001410       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xba8bf
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x8acd2 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_info    0x000000000008acd2      0xb49 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_info    0x000000000008b81b      0x6cd /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_info    0x000000000008bee8       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_info    0x000000000008bf16       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_info    0x000000000008bf44       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_info    0x000000000008bf72       0x22 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_info    0x000000000008bf94      0x216 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_info    0x000000000008c1aa       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_info    0x000000000008c1d8       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_info    0x000000000008c206       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_info    0x000000000008c234       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_info    0x000000000008c262     0x3aab /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_info    0x000000000008fd0d       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_info    0x000000000008fd3b       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_info    0x000000000008fd69       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_info    0x000000000008fd97      0x446 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_info    0x00000000000901dd       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_info    0x000000000009020b       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_info    0x0000000000090239       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_info    0x0000000000090267       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_info    0x0000000000090295       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_info    0x00000000000902c3       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_info    0x00000000000902f1       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_info    0x000000000009031f       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_info    0x000000000009034d       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_info    0x000000000009037b       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_info    0x00000000000903a9       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_info    0x00000000000903d7       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_info    0x0000000000090405       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_info    0x0000000000090433       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_info    0x0000000000090461       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_info    0x000000000009048f       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_info    0x00000000000904bd       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_info    0x00000000000904eb       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_info    0x0000000000090519     0x484d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_info    0x0000000000094d66     0x1ec3 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_info    0x0000000000096c29     0x1f70 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_info    0x0000000000098b99     0x1e90 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_info    0x000000000009aa29     0x224a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_info    0x000000000009cc73     0x2022 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_info    0x000000000009ec95       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_info    0x000000000009ecc3      0x805 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_info    0x000000000009f4c8      0x873 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_info    0x000000000009fd3b      0x10a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_info    0x000000000009fe45      0x8f6 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_info    0x00000000000a073b      0x8f5 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_info    0x00000000000a1030      0x8f6 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_info    0x00000000000a1926       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_info    0x00000000000a1954       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_info    0x00000000000a1982       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_info    0x00000000000a19b0       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_info    0x00000000000a19de     0x2310 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_info    0x00000000000a3cee       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_info    0x00000000000a3d1c     0x3ae4 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_info    0x00000000000a7800       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_info    0x00000000000a782e       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_info    0x00000000000a785c       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_info    0x00000000000a788a     0x1139 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_info    0x00000000000a89c3     0x387a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_info    0x00000000000ac23d       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x00000000000ac26b       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_info    0x00000000000ac299     0x1edf /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x00000000000ae178     0x239f /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_info    0x00000000000b0517       0x2e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_info    0x00000000000b0545     0x34dd /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_info    0x00000000000b3a22     0x12fa /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_info    0x00000000000b4d1c     0x212e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_info    0x00000000000b6e4a     0x3a75 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_abbrev   0x0000000000000000    0x1024f
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0xae97 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000000ae97      0x25a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x000000000000b0f1      0x149 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_abbrev  0x000000000000b23a       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_abbrev  0x000000000000b24e       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_abbrev  0x000000000000b262       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_abbrev  0x000000000000b276       0x12 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x000000000000b288      0x14e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_abbrev  0x000000000000b3d6       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_abbrev  0x000000000000b3ea       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x000000000000b3fe       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_abbrev  0x000000000000b412       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x000000000000b426      0x45e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_abbrev  0x000000000000b884       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_abbrev  0x000000000000b898       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x000000000000b8ac       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_abbrev  0x000000000000b8c0      0x115 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_abbrev  0x000000000000b9d5       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x000000000000b9e9       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_abbrev  0x000000000000b9fd       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_abbrev  0x000000000000ba11       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_abbrev  0x000000000000ba25       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_abbrev  0x000000000000ba39       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_abbrev  0x000000000000ba4d       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x000000000000ba61       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_abbrev  0x000000000000ba75       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_abbrev  0x000000000000ba89       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_abbrev  0x000000000000ba9d       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_abbrev  0x000000000000bab1       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x000000000000bac5       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_abbrev  0x000000000000bad9       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_abbrev  0x000000000000baed       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_abbrev  0x000000000000bb01       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_abbrev  0x000000000000bb15       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_abbrev  0x000000000000bb29       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x000000000000bb3d      0x597 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_abbrev  0x000000000000c0d4      0x383 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_abbrev  0x000000000000c457      0x388 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_abbrev  0x000000000000c7df      0x367 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x000000000000cb46      0x3e1 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_abbrev  0x000000000000cf27      0x382 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x000000000000d2a9       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_abbrev  0x000000000000d2bd      0x1a3 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_abbrev  0x000000000000d460      0x1f4 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_abbrev  0x000000000000d654       0x78 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_abbrev  0x000000000000d6cc      0x19b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_abbrev  0x000000000000d867      0x19b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_abbrev  0x000000000000da02      0x19b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_abbrev  0x000000000000db9d       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_abbrev  0x000000000000dbb1       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_abbrev  0x000000000000dbc5       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_abbrev  0x000000000000dbd9       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_abbrev  0x000000000000dbed      0x454 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_abbrev  0x000000000000e041       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_abbrev  0x000000000000e055      0x40d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_abbrev  0x000000000000e462       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_abbrev  0x000000000000e476       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_abbrev  0x000000000000e48a       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_abbrev  0x000000000000e49e      0x32d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_abbrev  0x000000000000e7cb      0x39c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x000000000000eb67       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x000000000000eb7b       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_abbrev  0x000000000000eb8f      0x2f7 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x000000000000ee86      0x3ae /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x000000000000f234       0x14 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_abbrev  0x000000000000f248      0x467 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_abbrev  0x000000000000f6af      0x2dc /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_abbrev  0x000000000000f98b      0x457 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_abbrev  0x000000000000fde2      0x46d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_line     0x0000000000000000    0x187f8
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0xe0b3 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_line    0x000000000000e0b3      0x298 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_line    0x000000000000e34b      0x186 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_line    0x000000000000e4d1       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_line    0x000000000000e531       0x61 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_line    0x000000000000e592      0x110 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_line    0x000000000000e6a2      0x7b6 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_line    0x000000000000ee58       0xbf /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_line    0x000000000000ef17       0x98 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_line    0x000000000000efaf       0x98 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_line    0x000000000000f047      0x117 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_line    0x000000000000f15e      0x190 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_line    0x000000000000f2ee      0x499 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_line    0x000000000000f787       0xd8 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_line    0x000000000000f85f       0xd7 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_line    0x000000000000f936      0x1b2 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_line    0x000000000000fae8      0x1cc /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_line    0x000000000000fcb4       0xc8 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_line    0x000000000000fd7c      0x45f /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_line    0x00000000000101db      0x10c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_line    0x00000000000102e7      0x500 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_line    0x00000000000107e7      0x942 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_line    0x0000000000011129       0xe3 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_line    0x000000000001120c      0x1ac /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_line    0x00000000000113b8      0x99b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_line    0x0000000000011d53      0x180 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_line    0x0000000000011ed3      0x136 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_line    0x0000000000012009      0x882 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_line    0x000000000001288b      0x1ac /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_line    0x0000000000012a37      0x627 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_line    0x000000000001305e      0x1e2 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_line    0x0000000000013240      0x111 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_line    0x0000000000013351      0x5cd /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_line    0x000000000001391e       0xc1 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_line    0x00000000000139df       0xeb /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_line    0x0000000000013aca      0x685 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_line    0x000000000001414f      0x373 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_line    0x00000000000144c2      0x3b6 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_line    0x0000000000014878      0x351 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_line    0x0000000000014bc9      0x3aa /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_line    0x0000000000014f73      0x3d1 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_line    0x0000000000015344       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_line    0x000000000001539c      0x1fc /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_line    0x0000000000015598      0x1e7 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_line    0x000000000001577f       0x62 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_line    0x00000000000157e1      0x208 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_line    0x00000000000159e9      0x207 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_line    0x0000000000015bf0      0x209 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_line    0x0000000000015df9       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_line    0x0000000000015e53       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_line    0x0000000000015ead       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_line    0x0000000000015f07       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_line    0x0000000000015f5f      0x3b2 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_line    0x0000000000016311       0x5a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_line    0x000000000001636b      0x417 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_line    0x0000000000016782       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_line    0x00000000000167da       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_line    0x0000000000016832       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_line    0x000000000001688a      0x367 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_line    0x0000000000016bf1      0x3d6 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_line    0x0000000000016fc7       0x81 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x0000000000017048       0x8b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_line    0x00000000000170d3      0x322 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x00000000000173f5      0x423 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_line    0x0000000000017818       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_line    0x0000000000017870      0x572 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_line    0x0000000000017de2      0x291 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_line    0x0000000000018073      0x371 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_line    0x00000000000183e4      0x414 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x783f3
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x554c3 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_str     0x00000000000554c3      0x808 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_str     0x0000000000055ccb      0x5a9 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(errno.os)
+ .debug_str     0x0000000000056274       0x51 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setjmp.os)
+ .debug_str     0x00000000000562c5       0x54 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(__longjmp.os)
+ .debug_str     0x0000000000056319       0x5b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr.os)
+ .debug_str     0x0000000000056374       0x5b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_str     0x00000000000563cf      0x221 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_str     0x00000000000565f0       0x51 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strlen.os)
+ .debug_str     0x0000000000056641       0x51 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strnlen.os)
+ .debug_str     0x0000000000056692       0x51 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memchr.os)
+ .debug_str     0x00000000000566e3       0x5b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp.os)
+ .debug_str     0x000000000005673e     0x2848 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_str     0x0000000000058f86       0x5b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset.os)
+ .debug_str     0x0000000000058fe1       0x5b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy.os)
+ .debug_str     0x000000000005903c       0x5b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy.os)
+ .debug_str     0x0000000000059097      0x1d6 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_str     0x000000000005926d       0x54 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rawmemchr.os)
+ .debug_str     0x00000000000592c1       0x5e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_str     0x000000000005931f       0x6a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_str     0x0000000000059389       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-sse4.os)
+ .debug_str     0x00000000000593e9       0x61 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_str     0x000000000005944a       0x6a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-sse2-unaligned.os)
+ .debug_str     0x00000000000594b4       0x70 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx512-no-vzeroupper.os)
+ .debug_str     0x0000000000059524       0x61 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3.os)
+ .debug_str     0x0000000000059585       0x69 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx-unaligned.os)
+ .debug_str     0x00000000000595ee       0x69 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcpy-avx-unaligned.os)
+ .debug_str     0x0000000000059657       0x66 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_str     0x00000000000596bd       0x70 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_str     0x000000000005972d       0x61 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_str     0x000000000005978e       0x6a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_str     0x00000000000597f8       0x67 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_str     0x000000000005985f       0x61 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_str     0x00000000000598c0       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx2.os)
+ .debug_str     0x0000000000059920       0x70 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_str     0x0000000000059990     0x3978 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_str     0x000000000005d308     0x170d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_str     0x000000000005ea15     0x179a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_str     0x00000000000601af     0x16fb /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_str     0x00000000000618aa     0x182a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_str     0x00000000000630d4     0x182e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_str     0x0000000000064902       0x58 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(uname.os)
+ .debug_str     0x000000000006495a      0x662 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_str     0x0000000000064fbc      0x67b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_str     0x0000000000065637      0x1d9 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(environ.os)
+ .debug_str     0x0000000000065810      0x70c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_str     0x0000000000065f1c      0x70a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_str     0x0000000000066626      0x70f /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_str     0x0000000000066d35       0x55 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(open.os)
+ .debug_str     0x0000000000066d8a       0x55 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(read.os)
+ .debug_str     0x0000000000066ddf       0x55 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(write.os)
+ .debug_str     0x0000000000066e34       0x55 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(access.os)
+ .debug_str     0x0000000000066e89     0x199f /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_str     0x0000000000068828       0x55 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(close.os)
+ .debug_str     0x000000000006887d     0x27d5 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_str     0x000000000006b052       0x57 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(munmap.os)
+ .debug_str     0x000000000006b0a9       0x57 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mprotect.os)
+ .debug_str     0x000000000006b100       0x57 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(llseek.os)
+ .debug_str     0x000000000006b157      0xb94 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_str     0x000000000006bceb     0x2765 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(prof-freq.os)
+ .debug_str     0x000000000006e450       0x65 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_str     0x000000000006e4b5       0x65 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc-cancellation.os)
+ .debug_str     0x000000000006e51a     0x18db /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x000000000006fdf5     0x1a5d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_str     0x0000000000071852       0x57 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(setitimer.os)
+ .debug_str     0x00000000000718a9     0x1f1a /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_str     0x00000000000737c3      0xcd8 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_str     0x000000000007449b     0x171d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_str     0x0000000000075bb8     0x283b /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_loc      0x0000000000000000    0x3673b
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x2ec01 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_loc     0x000000000002ec01      0x232 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_loc     0x000000000002ee33      0x107 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strdup.os)
+ .debug_loc     0x000000000002ef3a      0x698 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_loc     0x000000000002f5d2     0x109f /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(wordcopy.os)
+ .debug_loc     0x0000000000030671     0x1905 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_loc     0x0000000000031f76      0x141 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_loc     0x00000000000320b7      0x1ba /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_loc     0x0000000000032271       0x4c /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_loc     0x00000000000322bd      0x332 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_loc     0x00000000000325ef       0xbe /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fdopendir.os)
+ .debug_loc     0x00000000000326ad      0x158 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_loc     0x0000000000032805       0xb5 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_loc     0x00000000000328ba      0x1de /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_loc     0x0000000000032a98      0x192 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_loc     0x0000000000032c2a      0x1de /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_loc     0x0000000000032e08      0x424 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fcntl.os)
+ .debug_loc     0x000000000003322c      0x5f1 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_loc     0x000000000003381d      0x32d /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_loc     0x0000000000033b4a      0x3ab /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_loc     0x0000000000033ef5     0x1c9e /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_loc     0x0000000000035b93      0x292 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_loc     0x0000000000035e25      0x6c0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+ .debug_loc     0x00000000000364e5      0x256 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x8220
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x77c0 /home/rsarwar/Downloads/glibc-2.23/build/elf/dl-allobjs.os
+ .debug_ranges  0x00000000000077c0       0x70 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(check_fds.os)
+ .debug_ranges  0x0000000000007830       0x40 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(strcmp.os)
+ .debug_ranges  0x0000000000007870      0x130 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(memmove.os)
+ .debug_ranges  0x00000000000079a0      0x280 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cacheinfo.os)
+ .debug_ranges  0x0000000000007c20       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(closedir.os)
+ .debug_ranges  0x0000000000007c50       0xd0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(readdir.os)
+ .debug_ranges  0x0000000000007d20       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x0000000000007d50       0xd0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getdents.os)
+ .debug_ranges  0x0000000000007e20       0x90 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(_exit.os)
+ .debug_ranges  0x0000000000007eb0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(getpid.os)
+ .debug_ranges  0x0000000000007ee0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(xstat.os)
+ .debug_ranges  0x0000000000007f10       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(fxstat.os)
+ .debug_ranges  0x0000000000007f40       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(lxstat.os)
+ .debug_ranges  0x0000000000007f70       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(mmap.os)
+ .debug_ranges  0x0000000000007fd0       0x30 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(profil.os)
+ .debug_ranges  0x0000000000008000       0xb0 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(sigaction.os)
+ .debug_ranges  0x00000000000080b0       0x90 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(forward.os)
+ .debug_ranges  0x0000000000008140       0x60 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(exit.os)
+ .debug_ranges  0x00000000000081a0       0x80 /home/rsarwar/Downloads/glibc-2.23/build/libc_pic.a(cxa_atexit.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/rsarwar/Downloads/glibc-2.23/build/elf/librtld.map.o elf64-x86-64)

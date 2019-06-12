@@ -1,0 +1,17 @@
+/home/rsarwar/Downloads/glibc-2.23/build/dummy.o: \
+ /home/rsarwar/Downloads/glibc-2.23/build/dummy.c \
+ ../include/stdc-predef.h \
+ /home/rsarwar/Downloads/glibc-2.23/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/rsarwar/Downloads/glibc-2.23/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/rsarwar/Downloads/glibc-2.23/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/rsarwar/Downloads/glibc-2.23/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
